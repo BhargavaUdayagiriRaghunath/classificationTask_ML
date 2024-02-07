@@ -56,3 +56,6 @@ The training and validation subsets of the data was chosen in a 70:30 split and 
 
 Issues that needed more attention:
 Understanding that accuracies, scores describing metrics are not the only determining factors in the fit of the model and how well it performs. I realized and learnt throughout the process how there are various other parameters that could be tweaked.
+
+## Video on YouTube walking through the project
+### https://www.youtube.com/watch?v=h1YrI0cnlIY&t=1s
