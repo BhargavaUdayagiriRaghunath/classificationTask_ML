@@ -41,8 +41,8 @@ Naive Bayes:
 
 Fast: Naive Bayes relies on Bayes' theorem and simple conditional probability calculations. These calculations are computationally efficient, making Naive Bayes a fast algorithm for training and prediction. This is especially beneficial when dealing with large datasets.
 Handles high-dimensionality data: Naive Bayes assumes independence between features, which simplifies the calculation of conditional probabilities. This allows it to handle high-dimensional data effectively without suffering from the curse of dimensionality, where the number of parameters to estimate grows exponentially with the number of features.
-Support Vector Machines (SVM):
 
+Support Vector Machines (SVM):
 Handles non-linear classification: SVMs can map the data to a higher-dimensional space using kernel functions, allowing them to model complex relationships between features. This makes them well-suited for non-linear classification problems where decision boundaries cannot be easily represented by linear functions.
 Decision Tree:
 
